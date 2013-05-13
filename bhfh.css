@@ -1,0 +1,33 @@
+
+body {
+	padding-top: 	60px;
+	padding-bottom: 40px;
+}
+
+.attendees {
+	width:		100%;
+	float:		left;	
+	margin: 	5px 0px 10px 0px;
+	padding: 	5px 0px 3px 5px;
+	background:	#eeeeee;	
+	text-align:		center;
+}
+
+.attendees .member {
+	width: 		45px;
+	margin: 	0px 0px 0px 0px;
+	text-align: 	center;
+	float:		left;	
+}
+
+.attendees .member img {
+	width:  	40px;
+	height: 	40px;
+	border: 	1px solid black;
+}
+
+.detailds {
+	position:	relative;
+	width:		100%;
+}
+
