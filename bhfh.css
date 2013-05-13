@@ -9,8 +9,8 @@ body {
 	float:		left;	
 	margin: 	5px 0px 10px 0px;
 	padding: 	5px 0px 3px 5px;
-	background:	#eeeeee;	
-	text-align:		center;
+	background:	#ffffff;	
+	text-align:	center;
 }
 
 .attendees .member {
@@ -23,7 +23,7 @@ body {
 .attendees .member img {
 	width:  	40px;
 	height: 	40px;
-	border: 	1px solid black;
+	border: 	0px solid black;
 }
 
 .detailds {
